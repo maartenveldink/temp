@@ -21,7 +21,7 @@ public interface TrafficLight {
     /**
      * Attempts to set the traffic light to a certain color.
      *
-     * @param color a color to set the traffic light to, cannot be null
+     * @param color a {@link Color} to set the traffic light to, cannot be null
      * @throws IllegalStateException if the given color would violate the contract
      * @throws IllegalArgumentException if the given color is not a valid traffic light color
      */
