@@ -1,7 +1,7 @@
 # Traffic Light 
 
 - Please implement this code in java.
-- Make it as professional as you can and explain why you are doing things in a certain way.
+- Make it as professional as you can and explain the why and how of your choices.
 - Try not to make assumptions but ask questions if you are unsure about something.
 - Take a minute or two to familiarize yourself with the code, and then you can have fun :-)
 
