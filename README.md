@@ -1,4 +1,4 @@
-# Traffic Light Application
+# Traffic Light 
 
 - Please implement this code in java.
 - Make it as professional as you can and explain why you are doing things in a certain way.
